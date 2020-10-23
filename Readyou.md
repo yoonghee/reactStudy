@@ -80,10 +80,17 @@ Click Model Tab -> Create Button -> Import Button
   <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_5.png">
   <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_6.png">
 </div>
-Select Model config.pbtxt (path : skaffold/model/simple/config.pbtxt
+Select Model config.pbtxt ( path : skaffold/model/simple/config.pbtxt )
 <br/>
 <br/>
-
+<div>
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_7.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_8.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_9.png">
+</div>
+Select Model model.graphdef ( path : skaffold/model/simple/1/model.graphdef )
+<br/>
+<br/>
 ### 3.2) Inference Create
 
 ### 3.3) Inference Test ( Python )
