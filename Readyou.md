@@ -46,7 +46,7 @@ To install both of them, refer to follings.
 After Deploying all component (inference-manager, web)
 You can access https://localhost:30089
 
-and login with admin / admin for testing
+and login with **admin / admin** for testing
 
 ### 2.5) Stop Artiference
 
@@ -74,11 +74,15 @@ Follow the flow of the image below.
 </div>
 Click Model Tab -> Create Button -> Import Button
 <br/>
+<br/>
 <div>
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_1.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_2.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_3.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_4.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_5.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_6.png">
 </div>
+Select Model config.pbtxt (path : skaffold/model/simple/config.pbtxt
+<br/>
+<br/>
 
 ### 3.2) Inference Create
 
