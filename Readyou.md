@@ -68,29 +68,31 @@ If you have successfully logged in, you will be taken to the inference-list page
 Follow the flow of the image below.
 -----------------------------------
 <div>
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_1.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_2.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_3.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_1.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_2.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_3.png">
 </div>
 Click Model Tab -> Create Button -> Import Button
 <br/>
 <br/>
 <div>
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_4.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_5.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_6.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_4.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_5.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_6.png">
 </div>
 Select Model config.pbtxt ( path : skaffold/model/simple/config.pbtxt )
 <br/>
 <br/>
 <div>
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_7.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_8.png">
-  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_9.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_7.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_8.png">
+  <img width="350" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_9.png">
 </div>
 Select Model model.graphdef ( path : skaffold/model/simple/1/model.graphdef )
+<br/> And Validation
 <br/>
 <br/>
+
 ### 3.2) Inference Create
 
 ### 3.3) Inference Test ( Python )
