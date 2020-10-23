@@ -100,9 +100,9 @@ If you have successfully created Model, create Inference Service for inference
 Inference Create, Follow the flow of the image below.
 -----------------------------------
 <div>
-  <img width="330" height="450" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_1.png">
-  <img width="330" height="450" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_2.png">
-  <img width="330" height="450" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_3.png">
+  <img width="330" height="400" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_1.png">
+  <img width="330" height="400" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_2.png">
+  <img width="330" height="400" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_3.png">
 </div>
 Click Create button -> Create button -> Enter Info -> Create button
 <br/>
