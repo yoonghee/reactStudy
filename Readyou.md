@@ -65,12 +65,8 @@ You can inference like below
 
 If you have successfully logged in, you will be taken to the inference-list page.
 
-Follow the flow of the image below.
------------------------------------
 <div>
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/image/1.jpg">
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/image/2.jpg">
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/image/3.jpg">
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/1.jpg">
 </div>
 
 ### 3.2) Inference Create
@@ -79,4 +75,16 @@ Follow the flow of the image below.
 
 #### 3.3.1) Test Configuration
 
+Follow the flow of the image below.
+-----------------------------------
+<div>
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/1.jpg">
+</div>
+
 #### 3.3.2) Inference Result
+
+Follow the flow of the image below.
+-----------------------------------
+<div>
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/1.jpg">
+</div>
