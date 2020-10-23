@@ -78,7 +78,9 @@ If you have successfully logged in, you will be taken to the inference-list page
 Follow the flow of the image below.
 -----------------------------------
 <div>
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/1.jpg">
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/create_model_1.png">
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/create_model_2.png">
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/create_model_3.png">
 </div>
 
 #### 3.3.2) Inference Result
