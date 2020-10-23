@@ -139,5 +139,5 @@ python test.py
 If successful, you will see something like below.
 -----------------------------------
 <div>
-  <img src="https://github.com/yoonghee/reactStudy/blob/master/inference_result.png">
+  <img src="https://github.com/yoonghee/reactStudy/blob/master/result_inference.png">
 </div>
