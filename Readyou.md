@@ -100,31 +100,44 @@ If you have successfully created Model, create Inference Service for inference
 Inference Create, Follow the flow of the image below.
 -----------------------------------
 <div>
-  <img width="330" height="400" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_1.png">
-  <img width="330" height="400" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_2.png">
-  <img width="330" height="400" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_3.png">
+  <img width="330" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_1.png">
+  <img width="330" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_2.png">
+  <img width="330" src="https://github.com/yoonghee/reactStudy/blob/master/create_inference_3.png">
 </div>
 Click Create button -> Create button -> Enter Info -> Create button
+<br/>
+Prepare by copying the endpoint and token for 3.3.1)
 <br/>
 <br/>
 
 
 ### 3.3) Inference Test ( Python )
 
+Inference test by created simple model
+
 #### 3.3.1) Test Configuration
 
-Follow the flow of the image below.
+Open test.py code ( path : skaffold/test.py )
+
+Enter the copied endpoint and token into the blank space like below the match.
 -----------------------------------
-<div>
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/create_model_1.png">
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/create_model_2.png">
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/create_model_3.png">
-</div>
+<pre>
+<code>
+token = "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2xvY..."
+addr = "https://localhost..."
+</code>
+</pre>
+
+#### 3.3.2) Execute Test Code
+
+```shell
+python test.py
+```
 
 #### 3.3.2) Inference Result
 
-Follow the flow of the image below.
+If successful, you will see something like below.
 -----------------------------------
 <div>
-  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/1.jpg">
+  <img src="https://github.com/yoonghee/reactStudy/blob/master/inference_result.png">
 </div>
