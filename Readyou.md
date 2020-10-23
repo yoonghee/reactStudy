@@ -72,6 +72,7 @@ Follow the flow of the image below.
   <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_2.png">
   <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_3.png">
 </div>
+Click Model Tab -> Create Button -> Import Button
 <br/>
 <div>
   <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_1.png">
