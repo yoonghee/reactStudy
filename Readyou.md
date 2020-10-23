@@ -56,21 +56,27 @@ and login with admin / admin for testing
 
 - After stopping, you need to close all terminal manually
 
-## 3) How to inference ( using Simple Model )
+## 3) How to inference ( using Simple Model for testing )
 
-After successful login step, 
+After successful 2.4)login step, 
 You can inference like below
 
-### 3.1) Download Model
+### 3.1) Model Create
 
-For example. Download Simple Model
+If you have successfully logged in, you will be taken to the inference-list page.
 
-### 3.2) Model Create
+Follow the flow of the image below.
+-----------------------------------
+<div>
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/image/1.jpg">
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/image/2.jpg">
+  <img width="200" src="https://github.com/yoonghee/reactStudy/edit/master/image/3.jpg">
+</div>
 
-### 3.3) Inference Create
+### 3.2) Inference Create
 
-### 3.4) Inference Test ( Python )
+### 3.3) Inference Test ( Python )
 
-#### 3.4.1) Configuration
+#### 3.3.1) Test Configuration
 
-#### 3.4.2) Inference Result
+#### 3.3.2) Inference Result
