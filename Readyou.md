@@ -61,6 +61,16 @@ and login with admin / admin for testing
 After successful login step, 
 You can inference like below
 
-model create ~ inference result
+### 3.1) Download Model
 
+For example. Download Simple Model
 
+### 3.2) Model Create
+
+### 3.3) Inference Create
+
+### 3.4) Inference Test ( Python )
+
+#### 3.4.1) Configuration
+
+#### 3.4.2) Inference Result
