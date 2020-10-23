@@ -66,9 +66,9 @@ You can inference like below
 If you have successfully logged in, you will be taken to the inference-list page.
 
 <div>
-  <img width="200" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_1.png">
-  <img width="200" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_2.png">
-  <img width="200" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_3.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_1.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_2.png">
+  <img width="300" height="500" src="https://github.com/yoonghee/reactStudy/blob/master/create_model_3.png">
 </div>
 
 ### 3.2) Inference Create
