@@ -55,3 +55,12 @@ and login with admin / admin for testing
 ```
 
 - After stopping, you need to close all terminal manually
+
+## How to inference ( using Simple Model )
+
+After successful login step
+You can inference like below
+
+model create ~ inference result
+
+
