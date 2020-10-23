@@ -2,16 +2,16 @@
 
 This document describe how to develop artiference using skaffold
 
-## Prerequisite
+## 1) Prerequisite
 
 - Kubernetes
 - Skaffold : https://skaffold.dev/docs/install/
 
-## How to development
+## 2) How to development
 
 Now, the scrips supports only mac
 
-### Download Projects
+### 2.1) Download Projects
 
 ```shell
 ./bootstrap.sh
@@ -19,7 +19,7 @@ Now, the scrips supports only mac
 
 - this will downloads all projects related to artiference on current directory.
 
-### Initialize Artiference
+### 2.2) Initialize Artiference
 
 ```shell
 ./init.sh
@@ -29,7 +29,7 @@ Now, the scrips supports only mac
 - A job will be deployed to initialize db tables.
 - After job completed, you can go next
 
-### Deploy Applications
+### 2.3) Deploy Applications
 
 Artiference has inference-manager, web
 
@@ -41,14 +41,14 @@ To install both of them, refer to follings.
 ```
 - this is for deploying a application to kubernetes using run.DockerFile in the project
 
-### How to access to web service and login 
+### 2.4) How to access to web service and login 
 
 After Deploying all component (inference-manager, web)
 You can access https://localhost:30089
 
 and login with admin / admin for testing
 
-### Stop Artiference
+### 2.5) Stop Artiference
 
 ```shell
 ./stop.sh
@@ -56,9 +56,9 @@ and login with admin / admin for testing
 
 - After stopping, you need to close all terminal manually
 
-## How to inference ( using Simple Model )
+## 3) How to inference ( using Simple Model )
 
-After successful login step
+After successful login step, 
 You can inference like below
 
 model create ~ inference result
